@@ -3,7 +3,7 @@ This repo is the official data collection of MMFundus (Multimodal Fundus) datase
 
 An example of the MMFundus dataset is at https://github.com/HUANGLIZI/MMFundus/blob/main/HRF45.csv.
 
-Some datasets have been released, if you use these datasets please also cite our work.
+Some datasets have been released. If you use these datasets, please also cite our work.
 [ACRIMA](https://drive.google.com/drive/folders/1mQ74DcE73WXJOVCutF7b0DqY6HWw7ICk?usp=sharing),
 [ADAM](https://drive.google.com/drive/folders/1Iv0ZKdU_xI95m6wkos1xXA3cQ1QR_wFV?usp=drive_link),
 [AIROGS](https://drive.google.com/drive/folders/15qfcObk1rfBoRLP_U09ZrQYvHOk6dZkZ?usp=sharing),
